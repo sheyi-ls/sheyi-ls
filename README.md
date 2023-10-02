@@ -1,4 +1,4 @@
-![header_](https://github.com/sheyi-ls/sheyi-ls/assets/75797734/b645a87d-a083-42eb-8265-4efe4c53d208)![](assets/Bottom_up.svg)
+![](assets/Bottom_up.svg)
 
 ![](assets/header_.png)
 
