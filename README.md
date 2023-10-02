@@ -5,7 +5,7 @@
 <!--   my-skils -->
 
 | Property                                        | Data                                                         |
-| ----------------------------------------------- | ------------------------------------------------------------ |
+| --------------------------------------------------------------- | ----------------------------------------------------------------------------- |
 | **Language / IDE**                              | ![C++ Badge](https://img.shields.io/badge/-C++-3776AB?style=flat&logo=C++&logoColor=white) ![VSCode Badge](https://img.shields.io/badge/-VSCode-3776AB?style=flat&logo=VSCode&logoColor=white) |
 | **Domain Knownledge**                           | [![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories) [![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories) |
 | **CI / CD**                                     | [![Markdown Badge](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white)](https://github.com/BEPb/BEPb) [![Github Badge](https://img.shields.io/badge/-Github%20-2088FF?style=flat&logo=Github&logoColor=white)](https://github.com/BEPb/BEPb) [![Github Actions Badge](https://img.shields.io/badge/-Git%20-2088FF?style=flat&logo=Git&logoColor=white)](https://github.com/BEPb/BEPb) |
