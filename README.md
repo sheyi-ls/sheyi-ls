@@ -1,8 +1,9 @@
 ![header_](https://github.com/sheyi-ls/sheyi-ls/assets/75797734/b645a87d-a083-42eb-8265-4efe4c53d208)![](assets/Bottom_up.svg)
 
+![](assets/header_.png)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Liu+Shuai;+Welcome+to+My+Profile!)](https://git.io/typing-svg)
 
-![](assets/header_.png)
 
 <!--   my-skils -->
 | Property                                        | Data                                                         |
