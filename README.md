@@ -4,6 +4,15 @@
 
 <!--   my-skils -->
 
+<style>
+table th:first-of-type {
+    width: 40%;
+}
+table th:nth-of-type(2) {
+    width: 60%;
+}
+</style>
+
 | Property                                        | Data                                                         |
 | --------------------------------------------------------------- | ----------------------------------------------------------------------------- |
 | **Language / IDE**                              | ![C++ Badge](https://img.shields.io/badge/-C++-3776AB?style=flat&logo=C++&logoColor=white) ![VSCode Badge](https://img.shields.io/badge/-VSCode-3776AB?style=flat&logo=VSCode&logoColor=white) |
